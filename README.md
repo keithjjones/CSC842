@@ -1,8 +1,10 @@
-# CSC842
+# CSC842 - Security Tool Development
 
 This repository is a quick set of links for CSC842 projects at dsu.edu.
 
-## Cycle 1
+## Fall 2016
+
+### Cycle 1
 
 - Gerry Auger
   - A Twitter hashtag summary tool 
