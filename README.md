@@ -1,6 +1,6 @@
 # CSC842
 
-This repository is a quick set of links for CSC842 projects for dsu.edu.
+This repository is a quick set of links for CSC842 projects at dsu.edu.
 
 ## Cycle 1
 
