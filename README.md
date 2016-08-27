@@ -14,7 +14,7 @@ This repository is a quick set of links for CSC842 projects at dsu.edu.
   - https://github.com/canance/CSC842/tree/master/Module%201%20-%20detectnet
 - Charles Frank
   - Report last logon information for DSU Linux Severs
-  - https://github.com/infosecchazzy/CSC842-Security-Tool-Development/cycle1 
+  - https://github.com/infosecchazzy/CSC842-Security-Tool-Development/tree/master/cycle1
 - Keith Jones 
   - A host intelligence tool
   - https://github.com/keithjjones/hostintel 
