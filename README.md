@@ -4,7 +4,7 @@ This repository is a quick set of links for CSC842 projects at dsu.edu.
 
 ## Fall 2016
 
-### Cycle 1
+### Cycle 1 (August 29, 2016)
 
 - Gerry Auger
   - Social Engineering Pretexting Aid - TeePreText.py 
