@@ -15,6 +15,9 @@ This repository is a quick set of links for CSC842 projects at dsu.edu.
 - Charles Frank
   - Report last logon information for DSU Linux Severs
   - https://github.com/infosecchazzy/CSC842-Security-Tool-Development/tree/master/cycle1
+- Bramwell Brizendine
+  - JOP Dispatcher Finder
+  - https://github.com/bbriz/CSC842/tree/csc842
 - Keith Jones 
   - A host intelligence tool
   - https://github.com/keithjjones/hostintel 
