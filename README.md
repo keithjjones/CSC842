@@ -32,7 +32,7 @@ This repository is a quick set of links for CSC842 projects at dsu.edu.
   - https://github.com/Spirotot/studentactivity
 - Hosam Badreldin
   - The IP Locator
-  - https://github.com/Spirotot/studentactivity
+  - https://github.com/hbadreldin/DS-CSC-842
 - Samuel Jarocki
   - Process Watcher - Linux
   - https://gitlab.com/randomdsu/842/tree/master/cycle2
