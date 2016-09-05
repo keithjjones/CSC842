@@ -21,3 +21,22 @@ This repository is a quick set of links for CSC842 projects at dsu.edu.
 - Keith Jones 
   - A host intelligence tool
   - https://github.com/keithjjones/hostintel 
+
+### Cycle 2 (September 5, 2016)
+
+- Rodney Rickenbach
+  - DIVT: Directory Integrity Verification Tool
+  - https://github.com/Remulak/DIVT
+- Aaron Fields
+  - Student Activity
+  - https://github.com/Spirotot/studentactivity
+- Hosam Badreldin
+  - The IP Locator
+  - https://github.com/Spirotot/studentactivity
+- Samuel Jarocki
+  - Process Watcher - Linux
+  - https://gitlab.com/randomdsu/842/tree/master/cycle2
+- Dallas Wright
+  - Port Monitor/TCP connection info
+  - https://github.com/ddwright/CSC842/tree/Cycle-1---PortStatus
+
