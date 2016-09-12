@@ -40,3 +40,21 @@ This repository is a quick set of links for CSC842 projects at dsu.edu.
   - Port Monitor/TCP connection info
   - https://github.com/ddwright/CSC842/tree/Cycle-1---PortStatus
 
+### Cycle 3 (September 12, 2016)
+
+- Cody Welu
+  - Get-Software
+  - https://github.com/cmwelu/Get-Software
+- Kyle Murbach
+  - Automated Collections Script
+  - https://github.com/Murbie/CSC-842/tree/master/Module%201
+- Andrew Boell
+  - Password Mnemonic Generator
+  - https://github.com/aboell/PasswordMnemonic
+- Jarrod Johnson
+  - joshua
+  - https://github.com/ma11ock/CSC842
+- Tyler Flaagan
+  - Auto Grader
+  - https://github.com/tjflaagan/CSC842-ToolDev/tree/master/Cycle1
+
