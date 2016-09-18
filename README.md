@@ -58,3 +58,18 @@ This repository is a quick set of links for CSC842 projects at dsu.edu.
   - Auto Grader
   - https://github.com/tjflaagan/CSC842-ToolDev/tree/master/Cycle1
 
+### Cycle 4 (September 19, 2016)
+
+- Charles Frank
+  - Student Last Logon (Continued)
+  - https://github.com/infosecchazzy/CSC842-Security-Tool-Development/tree/master/cycle4
+- Cory Nance
+  - Guacamole Session Broker
+  - https://github.com/canance/CSC842/tree/master/Module%202%20-%20Guacamole%20Session%20Broker
+- Gerald Auger
+  - Amazon Echo Report New Vulnerabilities
+  - https://github.com/gerryguy311/CSC842/tree/master/Module2
+- Keith Jones
+  - A file intelligence tool
+  - https://github.com/keithjjones/fileintel
+
