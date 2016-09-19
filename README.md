@@ -69,6 +69,9 @@ This repository is a quick set of links for CSC842 projects at dsu.edu.
 - Gerald Auger
   - Amazon Echo Report New Vulnerabilities
   - https://github.com/gerryguy311/CSC842/tree/master/Module2
+- Bramwell Brizendine
+  - JOP Dispatcher Gadget Finder Redux
+  - https://github.com/bbriz/CSC842
 - Keith Jones
   - A file intelligence tool
   - https://github.com/keithjjones/fileintel
