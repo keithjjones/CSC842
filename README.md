@@ -76,3 +76,20 @@ This repository is a quick set of links for CSC842 projects at dsu.edu.
   - A file intelligence tool
   - https://github.com/keithjjones/fileintel
 
+### Cycle 4 (September 26, 2016)
+
+- Aaron Fields
+  - Eye of Jupytr
+  - https://blog.spirotot.com/2016/09/22/eye-of-jupyter/
+- Samuel Jarocki
+  - Process watcher for Windows
+  - https://gitlab.com/randomdsu/842/tree/master/cycle5
+- Hosam Badreldin
+  - The Network Bot
+  - https://github.com/hbadreldin/DS-CSC-842 
+- Dallas Wright
+  - minfo
+  - https://github.com/ddwright/CSC842/tree/Cycle-5---minfo
+- Rodney Rickenbach
+  - HURL
+  - https://github.com/Remulak/HURL
