@@ -76,7 +76,7 @@ This repository is a quick set of links for CSC842 projects at dsu.edu.
   - A file intelligence tool
   - https://github.com/keithjjones/fileintel
 
-### Cycle 4 (September 26, 2016)
+### Cycle 5 (September 26, 2016)
 
 - Aaron Fields
   - Eye of Jupytr
@@ -93,3 +93,22 @@ This repository is a quick set of links for CSC842 projects at dsu.edu.
 - Rodney Rickenbach
   - HURL
   - https://github.com/Remulak/HURL
+
+## Cycle 6 (October 3, 2016)
+
+- Jarrod Johnson
+  - Joshua Pt2 with Terminal Notifier
+  - https://github.com/ma11ock/CSC842/blob/master/joshua.sh
+- Kyle Murbach
+  - XACML
+  - https://github.com/Murbie/CSC-842/tree/master/Module%202
+- Andrew Boell
+  - Mnemonic Password Generator 2
+  - https://github.com/aboell/PasswordMnemonic/blob/master/README-v2.md
+- Cody Welu
+  - BlueShell
+  - https://github.com/cmwelu/BlueShell
+- Tyler Flaagan
+  - Auto Grader Round 2
+  - https://github.com/tjflaagan/CSC842-ToolDev/tree/master/Cycle2
+
