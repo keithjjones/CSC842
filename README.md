@@ -112,3 +112,18 @@ This repository is a quick set of links for CSC842 projects at dsu.edu.
   - Auto Grader Round 2
   - https://github.com/tjflaagan/CSC842-ToolDev/tree/master/Cycle2
 
+## Cycle 7 (October 10, 2016)
+
+- Cory Nance
+  - DNS_Proxy
+  - https://github.com/canance/CSC842/tree/master/Module%203%20-%20DNS_Proxy
+- Charles Frank
+  - Student Monitoring - Continued
+  - https://github.com/infosecchazzy/CSC842-Security-Tool-Development/tree/master/cycle7
+- Gerald Auger
+  - Information Security News Flash
+  - https://github.com/gerryguy311/CSC842/tree/master/Module2
+- Keith Jones
+  - A cuckoo-modified Python API
+  - https://github.com/keithjjones/cuckoo-modified-api
+
