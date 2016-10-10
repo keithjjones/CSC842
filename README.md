@@ -114,6 +114,9 @@ This repository is a quick set of links for CSC842 projects at dsu.edu.
 
 ## Cycle 7 (October 10, 2016)
 
+- Bramwell Brizendine
+  - I's Got Eyes
+  - https://github.com/bbriz/is_got_eyes
 - Cory Nance
   - DNS_Proxy
   - https://github.com/canance/CSC842/tree/master/Module%203%20-%20DNS_Proxy
