@@ -130,3 +130,23 @@ This repository is a quick set of links for CSC842 projects at dsu.edu.
   - A cuckoo-modified Python API
   - https://github.com/keithjjones/cuckoo-modified-api
 
+## Cycle 8 (October 17, 2016)
+
+- Hosam Badreldin
+  - The NoFlap Checker
+  - https://github.com/hbadreldin/DS-CSC-842
+- Samuel Jarocki
+  - petunia.sh
+  - https://gitlab.com/randomdsu/842/tree/master/cycle8
+- Aaron Fields
+  - Eye of Jupyter Pt. 2
+  - TBD
+- Rodney Rickenbach
+  - Columbo
+  - https://github.com/Remulak/Columbo
+- Dallas Wright
+  - REXX Process Monitor
+  - https://github.com/ddwright/CSC842/tree/Cycle-8---Process-Inquiry
+
+
+
