@@ -148,5 +148,17 @@ This repository is a quick set of links for CSC842 projects at dsu.edu.
   - REXX Process Monitor
   - https://github.com/ddwright/CSC842/tree/Cycle-8---Process-Inquiry
 
+## Cycle 9 (October 24, 2016)
 
-
+- Kyle Murbach
+  - Virus Scanner
+  - https://github.com/Murbie/CSC-842/tree/master/Module%203
+- Tyler Flaagan
+  - OSINT
+  - https://github.com/tjflaagan/CSC842-ToolDev/tree/master/Cycle3
+- Cody Welu
+  - Get-Hashes
+  - https://github.com/cmwelu/Get-Hashes 
+- Andrew Boell
+  - Password Mnemonic Generator Extension
+  - https://github.com/aboell/PasswordGeneratorExtension
