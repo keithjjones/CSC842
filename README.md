@@ -162,3 +162,15 @@ This repository is a quick set of links for CSC842 projects at dsu.edu.
 - Andrew Boell
   - Password Mnemonic Generator Extension
   - https://github.com/aboell/PasswordGeneratorExtension
+
+## Cycle 10 (October 21, 2016)
+
+- Gerald Auger
+  - Persistent Infosec Awareness
+  - https://github.com/gerryguy311/CSC842/tree/master/Module4
+- Keith Jones
+  - Log Visualization Tool (ProcMon)
+  - https://github.com/keithjjones/visualize_logs
+- Charles Frank
+  - Student Monitoring - Continued
+  - https://github.com/infosecchazzy/CSC842-Security-Tool-Development/tree/master/cycle10
