@@ -165,6 +165,9 @@ This repository is a quick set of links for CSC842 projects at dsu.edu.
 
 ## Cycle 10 (October 21, 2016)
 
+- Cory Nance
+  - process-lithold
+  - https://github.com/canance/process-lithold
 - Gerald Auger
   - Persistent Infosec Awareness
   - https://github.com/gerryguy311/CSC842/tree/master/Module4
