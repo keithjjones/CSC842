@@ -163,7 +163,7 @@ This repository is a quick set of links for CSC842 projects at dsu.edu.
   - Password Mnemonic Generator Extension
   - https://github.com/aboell/PasswordGeneratorExtension
 
-## Cycle 10 (October 21, 2016)
+## Cycle 10 (October 31, 2016)
 
 - Bramwell Brizendine
   - I's Got Eyes Iteration II
@@ -180,3 +180,21 @@ This repository is a quick set of links for CSC842 projects at dsu.edu.
 - Charles Frank
   - Student Monitoring - Continued
   - https://github.com/infosecchazzy/CSC842-Security-Tool-Development/tree/master/cycle10
+
+## Cycle 11 (November 7, 2016)
+
+- Dallas Wright
+  - Log Checker
+  - https://github.com/ddwright/CSC842/tree/Cycle-11---LOGCHK
+- Hosam Badreldin
+  - GUI for previous tools
+  - https://github.com/hbadreldin/DS-CSC-842
+- Rodney Rickenbach
+  - DIVT Revisited
+  - https://github.com/Remulak/DIVT
+- Aaron Fields
+  - Installing Angr on Windows
+  - https://github.com/Spirotot/angr_windows_install
+- Samuel Jarocki
+  - Create Random Active Directory Users
+  - https://gitlab.com/randomdsu/842/blob/master/cycle11/randomADusers.ps1
