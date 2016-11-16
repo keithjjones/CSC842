@@ -198,3 +198,18 @@ This repository is a quick set of links for CSC842 projects at dsu.edu.
 - Samuel Jarocki
   - Create Random Active Directory Users
   - https://gitlab.com/randomdsu/842/blob/master/cycle11/randomADusers.ps1
+
+## Cycle 12 (November 14, 2016)
+
+- Kyle Murbach
+  - AV Scanner
+  - https://github.com/Murbie/CSC-842/tree/master/Module%204
+- Tyler Flaagan
+  - MSFWA
+  - https://github.com/tjflaagan/CSC842-ToolDev/tree/master/Cycle4
+- Cody Welu
+  - Get-Eventlogs
+  - https://github.com/cmwelu/Get-EventLogs 
+- Jarrod Johnson
+  - ifconfig lazyness
+  - https://github.com/ma11ock/CSC842
