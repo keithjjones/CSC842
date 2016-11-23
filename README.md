@@ -213,3 +213,21 @@ This repository is a quick set of links for CSC842 projects at dsu.edu.
 - Jarrod Johnson
   - ifconfig lazyness
   - https://github.com/ma11ock/CSC842
+
+## Cycle 13 (November 21, 2016)
+
+- Charles Frank
+  - Student Monitoring
+  - https://github.com/infosecchazzy/CSC842-Security-Tool-Development/tree/master/cycle13
+- Cory Nance
+  - Terminal_Advisor
+  - https://github.com/canance/terminal_advisor
+- Gerald Auger
+  - Suspicious Domain Detector
+  - https://github.com/gerryguy311/CSC842/tree/master/Module5
+- Bramwell Brizendine
+  - Attacker Scripts
+  - https://github.com/bbriz/cycle5
+- Keith Jones
+  - Visualize_Logs Part 2, Cuckoo JSON Report Support
+  - https://github.com/keithjjones/visualize_logs
