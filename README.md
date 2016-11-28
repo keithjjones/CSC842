@@ -231,3 +231,21 @@ This repository is a quick set of links for CSC842 projects at dsu.edu.
 - Keith Jones
   - Visualize_Logs Part 2, Cuckoo JSON Report Support
   - https://github.com/keithjjones/visualize_logs
+
+## Cycle 14 (November 28, 2016)
+
+- Hosam Badreldin
+  - Firewall ACL Auditor
+  - https://github.com/hbadreldin/DS-CSC-842
+- Aaron Fields
+  - AngrIDA
+  - https://gist.github.com/Spirotot/5746427dfa64e8630ada01841415212c
+- Rodney Rickenbach
+  - DIVT
+  - https://github.com/Remulak/DIVT
+- Dallas Wright
+  - ADS Viewer
+  - https://github.com/ddwright/CSC842/tree/Cycle-14-View_ADS
+- Samuel Jarocki
+  - Correlate Exploit-DB and CVE
+  - https://gitlab.com/randomdsu/842/tree/master/cycle14
