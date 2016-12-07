@@ -249,3 +249,18 @@ This repository is a quick set of links for CSC842 projects at dsu.edu.
 - Samuel Jarocki
   - Correlate Exploit-DB and CVE
   - https://gitlab.com/randomdsu/842/tree/master/cycle14
+
+## Cycle 15 (December 5, 2016)
+
+- Cody Welu
+  - NetNotify
+  - https://github.com/cmwelu/netNotify 
+- Kyle Murbach
+  - TCP Syn Tracer
+  - https://github.com/Murbie/CSC-842/tree/master/Module%205
+- Jarrod Johnson
+  - Concurrent Ruby
+  - https://github.com/ma11ock/CSC842/blob/master/smtp-enum.rb
+- Tyler Flaagan
+  - Automated Situational Awareness
+  - https://github.com/tjflaagan/CSC842-ToolDev/tree/master/Cycle5
